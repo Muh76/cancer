@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: KaleCancer Documentation
+  structure:
+    - type: space
+      key: space-kalecancer-guides
+      title: KaleCancer Guides
+      path: guides
+      default: true
+      content:
+        directory: ./docs
